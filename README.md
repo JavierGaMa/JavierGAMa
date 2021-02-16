@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/javiergama" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613496319~hmac=08fd552499e9ce9cad9bfe9d7849b716" alt="www.linkedin.com/in/javiergama" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javiergama" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613496319~hmac=08fd552499e9ce9cad9bfe9d7849b716" alt="www.linkedin.com/in/javiergama" height="30" width="40" /></a>
 <a href="https://discord.gg/valinorJa" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1613496359~hmac=5bc67518b3126ac3ad96ff543bdefab1" alt="valinorJa" height="30" width="40" /></a>
 </p>
 
