@@ -13,11 +13,11 @@
 const valinor = {
   batteries: 'coffee' | 'Apio',
   code: ['Javascript', 'HTML', 'CSS', 'Dart'], 
-  tools: ['Node', 'Mongo', 'React', 'Angular', 'Flutter'],
+  tools: ['Node', 'React Native', 'Angular', 'NextJs'],
   areas: ['Front-End', 'IA', 'Electronics'],
   organizations: "NoriumX",
   
   
-  learningNow: () => 'NextJs'
+  learningNow: () => 'Flutter'
 }
 ```
