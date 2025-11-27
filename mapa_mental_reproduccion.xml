@@ -1,0 +1,24 @@
+<mindmap>
+    <node TEXT="Reproducción">
+        <node TEXT="Asexual">
+            <node TEXT="Un progenitor"/>
+            <node TEXT="Sin gametos"/>
+            <node TEXT="Tipos">
+                <node TEXT="Gemación (levaduras)"/>
+                <node TEXT="Fisión binaria (bacterias)"/>
+                <node TEXT="Fragmentación (estrellas de mar)"/>
+                <node TEXT="Esporulación (hongos)"/>
+                <node TEXT="Propagación vegetativa (plantas: papa, fresa)"/>
+            </node>
+        </node>
+        <node TEXT="Sexual">
+            <node TEXT="Dos progenitores"/>
+            <node TEXT="Mezcla de gametos"/>
+            <node TEXT="Ejemplos">
+                <node TEXT="Humanos"/>
+                <node TEXT="Animales"/>
+                <node TEXT="Plantas con flores"/>
+            </node>
+        </node>
+    </node>
+</mindmap>
